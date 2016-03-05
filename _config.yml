@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Valera Marseille
+bio: 'iOS Software Engineer'
 
 # if it's an external image, update below for true
 external-image: false
@@ -20,17 +20,17 @@ analytics-google: 'UA-MYANALYTICS'
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: https://www.facebook.com/valera.marseille.9
+twitter: https://twitter.com/complexityclass
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: mylinkedin
-youtube: myyoutube
+linkedin: https://ru.linkedin.com/in/valeriy-popov-2b151061
+youtube: https://www.youtube.com/user/complexityclass
 spotify: myspotify
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+github: https://github.com/complexityclass
+medium: false
+email: complexityclass@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
