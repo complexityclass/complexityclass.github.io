@@ -20,15 +20,15 @@ analytics-google: 'UA-MYANALYTICS'
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/valera.marseille.9
-twitter: https://twitter.com/complexityclass
+facebook: valera.marseille.9
+twitter: complexityclass
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://ru.linkedin.com/in/valeriy-popov-2b151061
-youtube: https://www.youtube.com/user/complexityclass
-spotify: myspotify
-github: https://github.com/complexityclass
+linkedin: valeriy-popov-2b151061
+youtube: complexityclass
+spotify: false
+github: complexityclass
 medium: false
 email: complexityclass@gmail.com
 
